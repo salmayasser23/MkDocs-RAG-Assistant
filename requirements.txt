@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+google-generativeai
+python-dotenv
+tqdm
+Pillow
+markdown
+fastapi
+uvicorn
+streamlit
