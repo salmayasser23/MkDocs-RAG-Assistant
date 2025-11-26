@@ -45,7 +45,7 @@ All knowledge is extracted from the official MkDocs repository:
 data/mkdocs_docs/
 ```
 
-If collected, documentation images are stored in:
+Documentation images are stored in:
 
 ```text
 data/mkdocs_images/
