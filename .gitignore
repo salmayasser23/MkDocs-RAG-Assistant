@@ -211,4 +211,5 @@ chroma_db/
 .venv/
 __pycache__/
 .streamlit/
+data/
 
