@@ -18,7 +18,7 @@ The system demonstrates:
 * Configurable top-k retrieval strategy (choice of k neighbours)
 * Strict System / Human prompt separation
 * CLI and Streamlit front-ends
-* multimodal ingestion (text + image)
+* Multimodal ingestion (text + image)
 
 ---
 
