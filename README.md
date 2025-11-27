@@ -28,8 +28,14 @@ The system demonstrates:
 ├── ingest.py               # Clean, chunk, embed, and store docs/images in Chroma
 ├── query_cli.py            # CLI RAG assistant (with configurable k neighbours)
 ├── app.py                  # Streamlit web-based RAG interface
-├── requirements.txt
-└── README.md
+
+├── data/                   # Folder containing the documentation used for ingestion
+│   ├── mkdocs_docs/        # MkDocs markdown user-guide files used as the text corpus
+│   └── mkdocs_images/      # Documentation images used for multimodal CLIP embeddings
+
+├── chroma_db/              # Auto-generated Chroma vector database (ignored in repo)
+├── requirements.txt        # Dependencies
+└── README.md               # Project documentation
 ```
 
 ---
